@@ -1,2 +1,3 @@
 # 3D-Tic-Tac-Toe
-3D Tic Tac Toe mobile app
+Basic 3D Tic Tac Toe mobile app
+-  Developed in beginner mobile app course using MIT App Inventor 2
